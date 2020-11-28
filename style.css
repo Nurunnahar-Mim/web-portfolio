@@ -56,6 +56,13 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
+.half-width2{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    overflow: scroll;
+}
 #full-stack{
     border-left: 7px solid;
     border-image:linear-gradient(180deg,lightsalmon,tomato) ;
@@ -69,4 +76,7 @@ section{
 footer p{
     text-align: center;
     font-size: 12px;
+}
+h2 p{
+    text-align: center;
 }
